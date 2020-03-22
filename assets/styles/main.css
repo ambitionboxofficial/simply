@@ -2051,8 +2051,8 @@ p {
 }
 
 .button--primary {
-    background: #102b7b;
-    border: 1px solid #102b7b;
+    background: #5670fb;
+    border: 1px solid #5670fb;
     color: #fff
 }
 
@@ -2062,16 +2062,16 @@ p {
 }
 
 .button--outline-success {
-    color: #28a745;
+    color: #5670fb;
     background-color: transparent;
     background-image: none;
-    border-color: #28a745
+    border-color: #5670fb
 }
 
 .button--outline-success:active,
 .button--outline-success:hover {
-    background-color: #28a745;
-    border-color: #28a745;
+    background-color: #5670fb;
+    border-color: #5670fb;
     color: #fff
 }
 
@@ -2125,12 +2125,12 @@ p {
 
 .button--filled {
     color: #fff;
-    background: #1c9963
+    background: #5670fb
 }
 
 .button--filled:hover {
     color: #fff;
-    background: #1a905d
+    background: #5670fb
 }
 
 .button--circle {
