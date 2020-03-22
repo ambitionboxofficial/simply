@@ -2718,7 +2718,7 @@ body.is-transparent:not(.has-menu) .u-menu-color a {
 }
 
 .kg-bookmark-publisher {
-    color: #00a562
+    color: #5670fb
 }
 
 .kg-bookmark-content {
@@ -2978,7 +2978,7 @@ body.is-transparent:not(.has-menu) .u-menu-color a {
 }
 
 .post-body a:not(.kg-bookmark-container):not(.button) {
-    color: #00a562;
+    color: #5670fb;
     text-decoration: none;
     word-break: break-word;
     -webkit-transition: color, border-color .2s linear;
@@ -2987,7 +2987,7 @@ body.is-transparent:not(.has-menu) .u-menu-color a {
 }
 
 .post-body a:not(.kg-bookmark-container):not(.button):hover {
-    border-bottom-color: #00a562
+    border-bottom-color: #5670fb
 }
 
 .post-body img:not(.kg-bookmark-icon) {
