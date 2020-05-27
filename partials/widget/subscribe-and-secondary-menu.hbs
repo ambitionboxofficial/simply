@@ -30,7 +30,7 @@
         {{#get "tags" limit="6" include="count.posts" order="count.posts desc" as |category_nav|}}
         {{#if category_nav}}
             <ul class="nav">
-                <li>{{#link href="/" activeClass="nav-current"}}{{t "All"}}{{/link}}</li>
+                <li>{{#link href=(concat @site.url '/tags') activeClass="nav-current"}}{{t "All"}}{{/link}}</li>
                 {{#foreach category_nav}}
                 <li>{{#link href=(url) activeClass="nav-current"}}{{name}}{{/link}}</li>
                 {{/foreach}}
